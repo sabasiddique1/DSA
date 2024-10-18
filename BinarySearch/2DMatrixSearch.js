@@ -27,7 +27,7 @@
         }
     }
 
-    return false;
+    return false;  // Target not found
 };
 
 
